@@ -1,0 +1,6 @@
+C:\Users\dellpc\Documents\Visual Studio 2012\Projects\DS_BST\DS_BST\bin\Debug\DS_BST.exe.config
+C:\Users\dellpc\Documents\Visual Studio 2012\Projects\DS_BST\DS_BST\bin\Debug\DS_BST.exe
+C:\Users\dellpc\Documents\Visual Studio 2012\Projects\DS_BST\DS_BST\bin\Debug\DS_BST.pdb
+C:\Users\dellpc\Documents\Visual Studio 2012\Projects\DS_BST\DS_BST\obj\Debug\DS_BST.csprojResolveAssemblyReference.cache
+C:\Users\dellpc\Documents\Visual Studio 2012\Projects\DS_BST\DS_BST\obj\Debug\DS_BST.exe
+C:\Users\dellpc\Documents\Visual Studio 2012\Projects\DS_BST\DS_BST\obj\Debug\DS_BST.pdb
