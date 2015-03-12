@@ -1,0 +1,6 @@
+c:\users\dellpc\documents\visual studio 2012\Projects\DS_SuffixTree\DS_SuffixTree\bin\Debug\DS_SuffixTree.exe.config
+c:\users\dellpc\documents\visual studio 2012\Projects\DS_SuffixTree\DS_SuffixTree\bin\Debug\DS_SuffixTree.exe
+c:\users\dellpc\documents\visual studio 2012\Projects\DS_SuffixTree\DS_SuffixTree\bin\Debug\DS_SuffixTree.pdb
+c:\users\dellpc\documents\visual studio 2012\Projects\DS_SuffixTree\DS_SuffixTree\obj\Debug\DS_SuffixTree.csprojResolveAssemblyReference.cache
+c:\users\dellpc\documents\visual studio 2012\Projects\DS_SuffixTree\DS_SuffixTree\obj\Debug\DS_SuffixTree.exe
+c:\users\dellpc\documents\visual studio 2012\Projects\DS_SuffixTree\DS_SuffixTree\obj\Debug\DS_SuffixTree.pdb
