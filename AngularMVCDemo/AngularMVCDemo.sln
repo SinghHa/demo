@@ -5,6 +5,10 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularMVCDemo", "AngularMVCDemo\AngularMVCDemo.csproj", "{471C0B2C-FD0D-4FFD-925C-18C3073734C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularMVCDemo.BusinessLayer", "AngularMVCDemo.BusinessLayer\AngularMVCDemo.BusinessLayer.csproj", "{BE643D2C-F27D-4EE6-B7CB-28CBC4E230EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularMVCDemo.DatabaseLayer", "AngularMVCDemo.DatabaseLayer\AngularMVCDemo.DatabaseLayer.csproj", "{CD9DD75A-08AB-4F9B-8D46-6D6CC53BE25A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{471C0B2C-FD0D-4FFD-925C-18C3073734C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{471C0B2C-FD0D-4FFD-925C-18C3073734C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{471C0B2C-FD0D-4FFD-925C-18C3073734C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE643D2C-F27D-4EE6-B7CB-28CBC4E230EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE643D2C-F27D-4EE6-B7CB-28CBC4E230EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE643D2C-F27D-4EE6-B7CB-28CBC4E230EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE643D2C-F27D-4EE6-B7CB-28CBC4E230EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD9DD75A-08AB-4F9B-8D46-6D6CC53BE25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD9DD75A-08AB-4F9B-8D46-6D6CC53BE25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD9DD75A-08AB-4F9B-8D46-6D6CC53BE25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD9DD75A-08AB-4F9B-8D46-6D6CC53BE25A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12,7 +12,13 @@ namespace AngularMVCDemo.Controllers.Home
         // GET: /Home/
         public ActionResult Index()
         {
-            return View();
+            //return View();
+            return RedirectToAction("LogIn");
+        }
+
+        public ActionResult LogIn()
+        {
+
         }
 	}
 }
